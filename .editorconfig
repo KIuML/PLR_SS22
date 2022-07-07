@@ -9,7 +9,3 @@ insert_final_newline = true
 [*.{ipynb,py}]
 indent_style = space
 indent_size = 2
-
-[Uebung_{02,03}.ipynb]
-indent_style = space
-indent_size = 2
